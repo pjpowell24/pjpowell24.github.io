@@ -2,18 +2,32 @@
 layout: default
 ---
 
-<h1>Welcome to Page Powell's Site!</h1>
-<p>I am currently a Senior at SMU and an Majoring in Creative Computing with a Minor in Advertising. One of my favorite things to do is travel and spend time at the beach. I hope to one day
- visit most of the countries in the world. Another one of my favorite things to do is listen to music as I like a diversity of different genres such as Pop, RnB, Country, and Indie. I am interested
-  in UX/UI Design and 3D animation and hope to continue learning more in the future!
-</p>
+<h1>Welcome to PMB's Site!</h1>
 
+<h2> Meet The Creators</h2>
 
-<h2>Create Your Own Generative Art Below!</h2>
 
 <p>
- Click in the empty space below to generate random shapes! Each time you mouse click anywhere on the screen, a random shape with a random color will appear. 
- Use the A key to increase or D key to decrease the shape size. 
+Page Powell
+Hi! My name is Page Powell and I am a senior Creative Computing major at SMU. For my final project I created my own website that talks a little bit about myself and the type of creative projects I create. There is an interactive aspect as well, which is created using the P5 library and Javascript. I utilized a combination of my design and coding skills to develop my website and its features. 
+
+Check out the link below to visit the website and create your own generative art! Once you are on my website click in the empty space below to generate random shapes! Each time you mouse click anywhere on the screen, a random shape with a random color will appear. Use the A key to increase or D key to decrease the shape size. Have fun creating! 
 </p>
+
+
+<p>
+Maggie Nguyen 
+Hello, my name is Maggie Nguyen and I am a third-year Creative Computation Major at SMU. As a creative, I focus on crafting projects that emphasize meaning, immersion, and interactivity. With my knowledge in Java, HTML, C++, and Python, I aim to create engaging graphics, driven by my interests in integrating code and creativity. 
+
+Below is a link to my website which will lead to a generative graphic created using P5- an open-source JavaScript library, used for making art. 
+</p>
+
+
+<p>
+Bailey Stern
+Hi there, my name is Bailey Stern. My education at Southern Methodist University has taught me many skills which I utilize in my education and life everyday. One of the most prominent aspects of digital art that I have learned about is experiential design. Due to this, my art is a self portrait. I wanted to make it interactive as well as generative to provide each user a unique experience, just as in everyday life everyone I know has their own unique perspectives of me. I am happy to be collaborating with Maggie and Page due to their creative prowess, and I hope you enjoy viewing our art pieces in a collaborative space.
+
+Please click below to view my website, learn a bit more about me, and view my art! Just click the mouse anywhere on the screen to change the color.
+<p>
 
 
