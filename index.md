@@ -17,8 +17,8 @@ Hi! My name is Page Powell and I am a senior Creative Computing major at SMU. Fo
 Check out the link below to visit the website and create your own generative art! Once you are on my website click in the empty space below to generate random shapes! Each time you mouse click anywhere on the screen, a random shape with a random color will appear. Use the A key to increase or D key to decrease the shape size. Have fun creating! 
 
 <br>
-https://pagepowell25.github.io/
 
+https://pagepowell25.github.io/
 </p>
 
 
@@ -31,8 +31,8 @@ Hello, my name is Maggie Nguyen and I am a third-year Creative Computation Major
 Below is a link to my website which will lead to a generative graphic created using P5- an open-source JavaScript library, used for making art. 
 
 <br> 
-https://maggient.github.io/ 
 
+https://maggient.github.io/ 
 </p>
 
 
@@ -46,8 +46,8 @@ Hi there, my name is Bailey Stern. My education at Southern Methodist University
 Please click below to view my website, learn a bit more about me, and view my art! Just click the mouse anywhere on the screen to change the color.
 
 <br>
-https://BaileyStern.github.io/ 
 
+https://BaileyStern.github.io/ 
 <p>
 
 
