@@ -18,7 +18,7 @@ Check out the link below to visit the website and create your own generative art
 
 <br>
 
-<a href="[https://github.com/](https://pagepowell25.github.io/)">Page's Website</a> 
+<a href="https://pagepowell25.github.io/">Page's Website</a> 
 </p>
 
 
@@ -32,7 +32,7 @@ Below is a link to my website which will lead to a generative graphic created us
 
 <br> 
 
- <a href="[https://github.com/](https://maggient.github.io/ )">Maggie's Website</a>
+ <a href="https://maggient.github.io/">Maggie's Website</a>
 </p>
 
 
@@ -47,7 +47,7 @@ Please click below to view my website, learn a bit more about me, and view my ar
 
 <br>
 
-<a href="[https://github.com/](https://BaileyStern.github.io/ )">Bailey's Website</a>
+<a href="https://BaileyStern.github.io/">Bailey's Website</a>
 
 <p>
 
